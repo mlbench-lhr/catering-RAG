@@ -1,0 +1,8 @@
+python-dotenv
+pymongo
+sentence-transformers
+faiss-cpu
+gradio
+openai
+numpy
+pydantic
